@@ -1,15 +1,15 @@
 # Josh's First CS193 Homework
 
+### My favorite things about CS193 are : 
+- The course materials are very useful for a career in CS but is annoying to learn on your own, so the course works out perfectly
+- The instructors are students like us so I know whatever they tell us is something I might go through in the future too
+- The teaching slides have fun little images that makes the studying less boring
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### My favorite things about CS193 are : 
-- The course materials are very useful for a career in CS but is annoying to learn on your own, so the course works out perfectly
-- The instructors are students like us so I know whatever they tell us is something I might go through in the future too
-- The teaching slides have fun little images that makes the studying less boring
 
 ### Markdown
 
